@@ -4,7 +4,8 @@
 
 ## steps
 
-- [bximage for boot](./docs/bximage.md)
+- [bximage](./docs/bximage.md)
+- [bootloader](./docs/bootloader.md)
 
 ## references
 
